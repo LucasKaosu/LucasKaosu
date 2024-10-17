@@ -26,4 +26,4 @@
 
 Estudante da UEG em Sistemas de Informação, buscando uma oportunidade profissional!
 
-![Snake animation](https://github.com/LucasKaosu/LucasKaosu/blob/output/github-contribution-grid-snake.svg)
+
